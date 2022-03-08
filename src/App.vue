@@ -1,8 +1,12 @@
 <template>
-  <div>Prueba Git Pages w/ Vite + Vue 3</div>
+  <div>Vue 3 + Vite + Pinia + VueRouter + WindiCSS + Axios Template</div>
 </template>
 
 <script setup>
+// import axios w/ interceptor
+// import Api from '@/api/api.js';
+// const axios = Api;
+
 </script>
 
 <style>
